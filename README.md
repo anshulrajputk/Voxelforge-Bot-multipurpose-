@@ -9,12 +9,9 @@ Made with ❤️ by **9vxk** and team.
 - 🛡️ AntiNuke + Panic Mode  
 - 🔨 Moderation (ban, kick, mute, purge, etc.)  
 - 🤖 AutoMod (antilink, antispam, antiinvite)  
-- 🎶 Music (via Lavalink)  
-- 🎟️ Tickets System  
+- 🎶 Music (via Lavalink) 
 - 🎉 Giveaways  
-- 🎮 Fun & Games  
-- 💰 Economy (OwO style)  
-- 📜 Logging System  
+- 🎮 Fun & Games 
 - 🌍 Multi-server Support  
 
 ---
