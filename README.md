@@ -22,7 +22,7 @@ Made with ❤️ by **9vxk** and team.
 ## 📌 Requirements
 - Node.js v20+  
 - A running Lavalink server for music features  
-- MongoDB database (cloud or local)  
+- MongoDB database  
 
 ---
 
@@ -50,13 +50,5 @@ node Shard.js
 ---
 
 ## 👥 Credits
-- 💻 **Developer:** [9vxk](https://github.com/9vxk)  
-- 🤝 **Contributor:** [ofcyourmanas](https://github.com/ofcyourmanas)  
-- 🛠️ **Support:** Join our [Discord Server](https://discord.gg/yourserver)  
-- 🌍 **Hosting Partner:** VPS by ofcyourmanas  
-
----
-
-## 📜 License
-This project is licensed under the MIT License.  
-Feel free to use and modify, but don’t forget to give credits!
+- 💻 **Developer:** 9vxk  
+- 🛠️ **Support:** Join our [Discord Server](https://discord.gg/QXQqN6FxWr)  
