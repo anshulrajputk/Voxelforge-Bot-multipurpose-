@@ -9,7 +9,7 @@ module.exports = {
   SpotifyID: "85aab1d51a174aad9eed6d7989f530e6",
   SpotifySecret: "b2ad05aa725e434c88776a1be8eab6c2",
   mongourl:
-    "mongodb+srv://leo:leo@cluster0.d8ob5pw.mongodb.net/?retryWrites=true&w=majority",
+    "mongodb+srv://LazyX:LazyX@cluster0.dk6eeow.mongodb.net/?retryWrites=true&w=majority",
   embedColor: "#2f3136",
   logs: "https://discord.com/api/webhooks/1389541229775159356/fnyxoWRhcIt77OLabLZLLCrKxoxQDmEN4yZbUaDMK82-qymTbMMwwQA5WkFJ4zRi0R_l",
   node_source: "ytsearch",
