@@ -6,7 +6,7 @@ Made with ❤️ by **9vxk** and team.
 ---
 
 ## 📌 Features
-- 🛡️ AntiNuke + Panic Mode  
+- 🛡️ AntiNuke 
 - 🔨 Moderation (ban, kick, mute, purge, etc.)  
 - 🤖 AutoMod (antilink, antispam, antiinvite)  
 - 🎶 Music (via Lavalink) 
@@ -41,7 +41,7 @@ node Shard.js
 ---
 
 ## ⚙️ Configuration
-- Copy `.env.example` → rename to `.env`  
+- Edit `src/config.js`  
 - Add your **Discord Bot Token**, **MongoDB URI**, and Lavalink details  
 
 ---
