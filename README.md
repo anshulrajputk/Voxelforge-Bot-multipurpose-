@@ -1,7 +1,7 @@
-# Arrkiii
+# Voxel
 
 A multi-purpose Discord bot with advanced features like AntiNuke, Moderation, AutoMod, Logging, Music, Tickets, Games, Economy, and much more!  
-Made with ❤️ by **9vxk** and team.
+Made with ❤️ by **GodSpiderz**
 
 ---
 
@@ -23,23 +23,6 @@ Made with ❤️ by **9vxk** and team.
 
 ---
 
-## 🚀 Installation
-```bash
-# Clone repo
-git clone https://github.com/Azhaan4130/LazyX-ArrKiii.git
-
-# Go into folder
-cd LazyX-ArrKiii
-
-# Install dependencies
-npm install
-
-# Start bot
-node Shard.js
-```
-
----
-
 ## ⚙️ Configuration
 - Edit `src/config.js`  
 - Add your **Discord Bot Token**, **MongoDB URI**, and Lavalink details  
@@ -47,5 +30,5 @@ node Shard.js
 ---
 
 ## 👥 Credits
-- 💻 **Developer:** 9vxk  
-- 🛠️ **Support:** Join our [Discord Server](https://discord.gg/QXQqN6FxWr)  
+- 💻 **Developer:** GodSpiderz  
+- 🎨 **Theme:** Orange-Yellow Cosmic Eclipse
