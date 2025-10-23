@@ -1,5 +1,5 @@
 {
-  "name": "Arrkiii",
+  "name": "voxel",
   "main": "Shard.js",
   "scripts": {
     "start": "node Shard.js",
