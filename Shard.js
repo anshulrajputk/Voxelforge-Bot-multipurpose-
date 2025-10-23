@@ -1,7 +1,7 @@
 /** @format
  *
- * Arrkiii By Ozuma xd
- * © 2022 Arrkiii Development
+ * Voxel By GodSpiderz
+ * © 2025 Voxel Development
  *
  */
 
