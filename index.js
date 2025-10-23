@@ -18,7 +18,7 @@ client.Jsk = new Dokdo.Client(client, {
 process.env.SHELL = process.platform === "win32" ? "powershell" : "bash";
 
 client.userSettings = new Collection();
-client.color = "2b2d31";
+client.color = "FFA500";
 client.emoji = {
   // music emojis
   music: "<:music:1414557915775504418> ",
